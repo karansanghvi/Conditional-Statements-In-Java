@@ -1,7 +1,7 @@
 # Conditional-Statements-In-Java
 This repository is on different conditional statements in java programming
 
-Prograns in this directory-
+Programs in this directory-
 
 1. WAP on if-else statement to check whether a person is eligible to drive or no (if_else_prog1.java)
 2. WAP on if-else statement to check if a person is an adult or a teenager (if_else_prog2.java)
